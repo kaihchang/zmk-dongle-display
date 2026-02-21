@@ -27,7 +27,7 @@ config ZMK_DONGLE_DISPLAY_MAC_MODIFIERS
 
 config ZMK_DONGLE_DISPLAY_BONGO_CAT
     bool "Display the Bongo Cat widget"
-    default y
+    default n
 
 config ZMK_DONGLE_DISPLAY_MODIFIERS
     bool "Display the modifiers widget"
