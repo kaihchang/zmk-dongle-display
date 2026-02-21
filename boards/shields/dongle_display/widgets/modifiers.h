@@ -9,7 +9,7 @@
 #include <lvgl.h>
 #include <zephyr/kernel.h>
 
-#define SIZE_SYMBOLS 14 // 14 x 14 pixel
+#define SIZE_SYMBOLS 12 // 12 x 12 pixel
 
 struct zmk_widget_modifiers {
     sys_snode_t node;
